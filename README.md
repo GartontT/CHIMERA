@@ -10,24 +10,7 @@ Associated Paper: https://arxiv.org/abs/1711.11476
 Automated Coronal Hole Identification via Multi-Thermal Intensity Segmentation
 (doi: 10.1051/swsc/2017039)
 
-@ARTICLE{2018JSWSC...8A...2G,
-   author = {{Garton}, T.~M. and {Gallagher}, P.~T. and {Murray}, S.~A.},
-    title = "{Automated coronal hole identification via multi-thermal intensity segmentation}",
-  journal = {Journal of Space Weather and Space Climate},
-archivePrefix = "arXiv",
-   eprint = {1711.11476},
- primaryClass = "astro-ph.SR",
- keywords = {Sun, coronal holes, algorithm, corona, solar wind},
-     year = 2018,
-    month = jan,
-   volume = 8,
-   number = 27,
-      eid = {A02},
-    pages = {A02},
-      doi = {10.1051/swsc/2017039},
-   adsurl = {http://adsabs.harvard.edu/abs/2018JSWSC...8A...2G},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
+![alt text](BIBtex.png)
 
 -------------------------------------------------------------------------------------------------------
 
