@@ -6,7 +6,6 @@ Note: This algorithm requires use of the IDL programming language and the SolarS
 Author: Tadhg M. Garton
 
 Associated Paper: https://arxiv.org/abs/1711.11476
-
 Automated Coronal Hole Identification via Multi-Thermal Intensity Segmentation
 (doi: 10.1051/swsc/2017039)
 
