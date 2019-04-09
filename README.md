@@ -5,6 +5,13 @@ Note: This algorithm requires use of the IDL programming language and the SolarS
 
 Author: Tadhg M. Garton
 
+Associated Paper: https://arxiv.org/abs/1711.11476
+
+Automated Coronal Hole Identification via Multi-Thermal Intensity Segmentation
+(doi: 10.1051/swsc/2017039)
+
+
+
 This algorithm extracts coronal hole (CH) boundaries and properties from 3 full-disk AIA EUV images centered at 171, 193, and 211A and a single HMI full disk magnetogram image with a similar observation time. To ensure correct functionality, CHIMERA should be stored and run from the same directory as the aforementioned AIA and HMI .fits files, in either level 1 or 1.5.
 
 ![alt text](directory_before.png)
