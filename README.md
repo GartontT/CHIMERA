@@ -10,6 +10,25 @@ Associated Paper: https://arxiv.org/abs/1711.11476
 Automated Coronal Hole Identification via Multi-Thermal Intensity Segmentation
 (doi: 10.1051/swsc/2017039)
 
+@ARTICLE{2018JSWSC...8A...2G,
+   author = {{Garton}, T.~M. and {Gallagher}, P.~T. and {Murray}, S.~A.},
+    title = "{Automated coronal hole identification via multi-thermal intensity segmentation}",
+  journal = {Journal of Space Weather and Space Climate},
+archivePrefix = "arXiv",
+   eprint = {1711.11476},
+ primaryClass = "astro-ph.SR",
+ keywords = {Sun, coronal holes, algorithm, corona, solar wind},
+     year = 2018,
+    month = jan,
+   volume = 8,
+   number = 27,
+      eid = {A02},
+    pages = {A02},
+      doi = {10.1051/swsc/2017039},
+   adsurl = {http://adsabs.harvard.edu/abs/2018JSWSC...8A...2G},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 -------------------------------------------------------------------------------------------------------
 
 This algorithm extracts coronal hole (CH) boundaries and properties from 3 full-disk AIA EUV images centered at 171, 193, and 211A and a single HMI full disk magnetogram image with a similar observation time. To ensure correct functionality, CHIMERA should be stored and run from the same directory as the aforementioned AIA and HMI .fits files, in either level 1 or 1.5.
@@ -29,3 +48,8 @@ CHIMERA can access .fits files from other temporary locations using the "temp" k
 ![alt text](direct_call.png)
 
 Any issues or queries on CHIMERA can be sent to: gartont@tcd.ie.
+
+---------------------------------------------------------------------------------------------------
+License:
+
+The content of this project is licensed under the Creative Commons Attribution 4.0 license, and the underlying source code used to format and display that content is licensed under the MIT license. Please reference the Space Weather and Space Climate publication in all instances, the solarmonitor.org/chimera database if using the CHIMERA catalogue, and relevant GitHub repositries if using the code.
